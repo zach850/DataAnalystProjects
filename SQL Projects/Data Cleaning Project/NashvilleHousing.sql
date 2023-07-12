@@ -13,7 +13,7 @@ Add SaleDates Date;
 Update NashvilleHousing
 Set SaleDates = CONVERT(Date, SaleDate)
 
--- Populate Proerty Address
+-- Populate Property Address
 Select a.PArcelID, a.PropertyAddress, b.ParcelID, b.PropertyAddress, ISNULL(a.PropertyAddress, b.PropertyAddress)
 From NashvilleHousing a
 Join NashvilleHousing b
