@@ -15,18 +15,6 @@ Throughout my data analytics journey, I have honed the following key skills:
 5. Statistical Analysis: Knowledgeable in applying statistical techniques and conducting exploratory data analysis.
 6. Problem Solving: Proficient in solving analytical problems using logical thinking and critical reasoning.
 
-## Projects
-
-### Covid Project : SQL Project
-
-In this project, I analyzed a Covid dataset and wrote queries to manipulate the data.
-
-### Nashville Housing Data Cleaning: SQL Project
-
-For this project, I took housing data and cleaned it by finding and removing duplicates.
-
-### Project 3 ...
-
 ## Conclusion
 
 My data analytics journey has been an exciting and rewarding experience. Through hands-on projects and continuous learning, I have developed strong skills in SQL and Python, enabling me to extract valuable insights from data. I am eager to further expand my knowledge and contribute to data-driven decision-making in the field of data analytics.
