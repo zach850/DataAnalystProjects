@@ -17,6 +17,6 @@ Throughout my data analytics journey, I have honed the following key skills:
 
 ## Conclusion
 
-My data analytics journey has been an exciting and rewarding experience. Through hands-on projects and continuous learning, I have developed strong skills in SQL and Python, enabling me to extract valuable insights from data. I am eager to further expand my knowledge and contribute to data-driven decision-making in the field of data analytics.
+My data analytics journey is an ongoing process. Through hands-on projects and continuous learning, I have developed strong skills in SQL and Python, enabling me to extract valuable insights from data. I am eager to further expand my knowledge and contribute to data-driven decision-making in the field of data analytics.
 
 Thank you for taking the time to explore my journey! If you have any questions, please feel free to reach out.
